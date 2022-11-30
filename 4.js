@@ -5,4 +5,4 @@ var drugiDio=pozdrav.slice(2,8);
 var velikaSlova=drugiDio.toUpperCase();
 var cijeliDio=prviDio+velikaSlova;
 // console.log(pozdrav, ime, "! Broj slova u ovoj recenici je:", pozdrav.length+ime.length);
-console.log(cijeliDio, ime);
+console.log(cijeliDio);
